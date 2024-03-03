@@ -12,7 +12,6 @@ public class Ex0301 {
 		queue.offer(3);
 		queue.offer(4);
 		System.out.println(queue.toString());
-		
 		System.out.println(queue.peek());
 		System.out.println(queue.toString());
 		

@@ -6,8 +6,11 @@ import java.util.Stack;
 public class Ex0401 {
 	public static void main(String[] args) {
 		Stack<Integer> stack = new Stack<Integer>();
+		System.out.println(stack.toString());
+		System.out.println(stack.peek());
 		stack.push(1);
 		System.out.println(stack.toString());
+		
 		stack.push(2);
 		stack.push(3);
 		stack.push(4);
