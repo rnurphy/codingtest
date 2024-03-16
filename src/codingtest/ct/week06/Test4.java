@@ -1,5 +1,7 @@
 package codingtest.ct.week06;
 
+// 프로그래머스
+// 비밀지도
 public class Test4 {
 	public static void main(String[] args) {
 		int n = 5;

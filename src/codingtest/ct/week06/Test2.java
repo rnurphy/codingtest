@@ -6,6 +6,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+// 프로그래머스
+// 실패율
 public class Test2 {
 	public static void main(String[] args) {
 		int N = 5;

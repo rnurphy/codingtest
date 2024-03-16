@@ -1,5 +1,7 @@
 package codingtest.ct.week06;
 
+// 프로그래머스
+// 소수 만들기
 public class Test5 {
 	public static void main(String[] args) {
 		int[] nums = { 1, 2, 7, 6, 4 };

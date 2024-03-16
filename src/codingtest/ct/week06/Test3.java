@@ -7,6 +7,8 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
+// 프로그래머스
+// 다트 게임
 public class Test3 {
 	public static void main(String[] args) {
 		String dartResult = "1D2S3T*";
